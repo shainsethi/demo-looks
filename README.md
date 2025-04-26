@@ -6,8 +6,6 @@ This is a React-based fashion e-commerce application that showcases a "Lookbook"
 
 - Vertical carousel for browsing different looks
 - Horizontal gallery within each look for multiple images
-- Interactive product annotations with clickable hotspots
-- Auto-advancing image preview with 5-second timer
 - Video playback support with mute/unmute controls
 - Intuitive navigation (swipe up/down for looks, left/right for images)
 - Mobile-first responsive design
